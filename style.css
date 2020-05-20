@@ -1,0 +1,14 @@
+table, th, td {
+    border: 2px solid black;
+}
+.tabelaT {
+    background-color: lightgrey;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+.tabelaD {
+    background-color: white;
+    text-align: left;
+    padding: 10px;
+}
